@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aakash-Roy
+- 👋 Hi, I’m @Aakash Roy
 - 👀 I’m interested in Artificial Intelligence, Space exploration, music and sports.
 - 🌱 I’m currently learning Python, Physics, Chemistry and Mathematics.
 - 💞️ I’m looking to collaborate on a project.
