@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3>I'm a Computer Science student and Citizen Scientist at NASA.</h3>
 
-- 🎓 I am a **freshman**, pursuing Bachelors in **Computer Science** at **Amrita Vishwa Vidyapeetham**. <br>
+- 🎓 I am a **second year student**, pursuing Bachelors in **Computer Science** at **Amrita Vishwa Vidyapeetham**. <br>
 - 👀 I’m interested in Artificial Intelligence, Machine Learning, Quantum Computing, Data Science, Web Development and Programming.
 - 💬 I would love to talk about research opportunities starting March 2022.
 - 💞️ I’m looking to collaborate on open source projects or I can be a part of team to develop a project. *(If interested contact me)*
