@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🎓 I am a **second year student**, pursuing Bachelors in **Computer Science** at **Amrita Vishwa Vidyapeetham**. <br>
 - 👀 I’m interested in Artificial Intelligence, Machine Learning, Quantum Computing, Data Science, Web Development and Programming.
-- 💬 I would love to talk about research opportunities starting March 2022.
+- 💬 I would love to talk about research opportunities starting March 2023.
 - 💞️ I’m looking to collaborate on open source projects or I can be a part of team to develop a project. *(If interested contact me)*
 - 💡 I am currently focusing on **Data Structures and Algorithm** and **Machine Learning**. An *active* contributor at **Open Source Projects**. <br>
 - 📚 I am looking forward to enhancing my knowledge by working on distinct projects.
